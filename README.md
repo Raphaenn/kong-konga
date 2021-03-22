@@ -1,0 +1,1 @@
+Create a docker network -> docker create network  kong-net.
